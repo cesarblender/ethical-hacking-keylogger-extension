@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "hack",
-  "description": "hack inputs",
+  "name": "Key Logger",
+  "description": "collect all input data",
   "version": "1.0",
   "action": {
     "default_title": "Click to show an alert"
