@@ -1,10 +1,11 @@
 {
-  "name": "home-cloud-server",
+  "name": "ethical-hacking-keylogger-extension",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
+  "type": "module",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "scripts": {
       "start": "node src/index.js"
